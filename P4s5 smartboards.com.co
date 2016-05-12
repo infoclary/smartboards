@@ -1,0 +1,10 @@
+FTP Acces
+	Server = ftp.tablerointeractivo.info
+	Port = 21
+	User = smartboards@tablerointeractivo.info
+	Password = l^ToU7Z};[5}
+
+Wordpress Admin
+	User = admin
+	Password = S!m4r|tb04rd|s
+	Panel = www.smartboards.com.co/wp-admin

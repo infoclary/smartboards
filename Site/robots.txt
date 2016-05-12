@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Disallow: /http://smartboards.com.co/wp-admin/
+Sitemap: http://smartboards.com.co/sitemap.xml

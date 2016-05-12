@@ -1,0 +1,2 @@
+Disallow: /sample-directory/http://smartboards.com.co/wp-admin/
+Sitemap: http://smartboards.com.co/sitemap.xml
